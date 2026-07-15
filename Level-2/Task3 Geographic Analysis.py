@@ -10,3 +10,10 @@ plt.title("Restaurant Locations by Latitude and Longitude")
 plt.xlabel("Longitude")
 plt.ylabel("Latitude")
 plt.show()
+# ---------------------- Conclusion ----------------------
+# Restaurants are concentrated in a few geographical regions,
+# forming visible clusters.
+# Some areas contain only a few isolated restaurants.
+# This indicates that restaurants are more densely located
+# in major cities or populated regions rather than being
+# evenly distributed.
